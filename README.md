@@ -122,15 +122,6 @@ Designed an interactive Excel dashboard with Pivot Tables, Pivot Charts, and sli
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DarshanDataAnalyst&show_icons=true&theme=tokyonight&hide_border=true" alt="Darshan's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarshanDataAnalyst&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%"/>
-</p>
-
----
-
 ## 🏆 Achievements
 
 - 🥇 **Best Performer Award (2019)** — Michigan State Transformation Team

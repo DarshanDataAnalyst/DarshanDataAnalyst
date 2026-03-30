@@ -1,154 +1,76 @@
-<h1 align="center">Hi there, I'm Darshan B K 👋</h1>
+# Hi, I'm Darshan BK 👋
 
-<h3 align="center">Aspiring Data Analyst | Proficient in Excel • SQL • Power BI • Python</h3>
+**Data Analyst | Power BI Developer | SQL & Python | Healthcare Domain Expert**
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/bkdarshan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:darshan.bk92@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/Darshan5949" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+📍 Bengaluru, India &nbsp;|&nbsp; 📧 darshan.bk92@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/bkdarshan)
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 About Me
 
-- 🔍 **Senior Process Executive AR** with **8 years of domain experience** in Healthcare Revenue Cycle Management
-- 📊 Experienced in creating **Power BI dashboards** that transform complex data into business insights
-- 🏥 Deep expertise in **AR aging analysis**, denial root-cause investigation, and operational reporting
-- 🎯 Passionate about **data-driven decision making** and translating raw data into actionable intelligence
-- 🏆 **Best Performer Award (2019)** — Achieved **98% claim resolution accuracy** in healthcare operations
-- 📊 Recently transitioned into Data Analytics after completing a certified course from **Skillovilla**
-(Accredited by FutureSkills – A NASSCOM Initiative – and Wipro)
-- 🧠 Interested in uncovering actionable insights from data to drive informed business decisions
-- 📍 Based in **Bangalore, India**
+I'm a data analyst with **8+ years of domain experience** in healthcare revenue cycle management and **1+ year of hands-on data engineering** using Python, SQL, Power BI, and Excel.
+
+At Omega Healthcare, I managed end-to-end AR analysis for 500+ monthly claims, maintained 98% claim resolution accuracy, and built Excel dashboards adopted across a team of 15+ analysts. In 2025–2026, I completed a certified data analyst program and built a portfolio of four end-to-end analytics projects — covering SQL, Python ETL pipelines, and Power BI dashboards.
+
+I specialize in turning raw, messy data into business decisions. I'm currently seeking **Data Analyst, BI Analyst, or Business Analyst roles** at tech and healthcare companies in Bengaluru.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-### Languages & Libraries
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### Visualization & Reporting
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-----
-
-### Analytics Techniques
-- 🔧 Data Cleaning & Transformation
-- 📈 Exploratory Data Analysis (EDA)
-- 🔍 Root Cause Analysis & Trend Analysis
-- 🌐 DAX, KPI Dashboards & Star Schema Data Modeling
-- 🔗 SQL Joins, Aggregations, Subqueries & Window Functions
-- 📋 Power Query, Pivot Tables, VLOOKUP
+| Category | Tools |
+|---|---|
+| **Languages** | Python (Pandas, NumPy) · SQL (MySQL — CTEs, Window Functions, Joins) |
+| **BI & Visualization** | Power BI (DAX, Star Schema, KPI Dashboards, Drill-Through) · Excel (Pivot Tables, Power Query, Dynamic Charts) |
+| **Data Skills** | EDA · ETL Pipeline Design · Data Cleaning · Root Cause Analysis · Cohort Analysis · RFM Segmentation |
+| **Environment** | Jupyter Notebook · MySQL Workbench · Git / GitHub · MS Office Suite |
+| **Domain** | Healthcare RCM · AR Aging · Claim Denial Analysis · Medicare / Medicaid / Commercial Insurance |
 
 ---
 
-## 📂 Featured Projects
+## 📁 Featured Projects
 
-### 🛍️ [Power BI Sales Dashboard — Shop Nest E-Commerce](https://github.com/DarshanDataAnalyst)
-> *February 2026*
-
-Built an interactive Power BI dashboard to analyze **9,000+ sales transactions** for a retail e-commerce store.
-
-- 🔄 Cleaned and transformed raw datasets using **Power Query** and built a **star schema data model**
-- 📐 Created **DAX measures** for revenue growth, discount impact, and sales trend analysis
-- 🌍 Visualized product performance, regional distribution & customer behavior
-- ✅ Enabled drill-through analysis and interactive filtering for business decision-making
+### 🛒 [E-Commerce Revenue Analysis — SQL](https://github.com/DarshanDataAnalyst/-E-Commerce-Sales-Analysis-SQL)
+Advanced SQL analysis on 10,000+ transactions. Used CTEs, window functions (`DENSE_RANK`, `LAG`), cohort analysis, and RFM segmentation to identify top revenue drivers, seasonal patterns, and at-risk customers.
+> **Key insight:** Top 4 products account for 42.8% of total revenue. Q4 drives 33% of annual net revenue.
 
 ---
 
-### 👥 [Employee Project Performance Analysis — Python](https://github.com/DarshanDataAnalyst)
-> *January 2026*
-
-Built a full Python-based analytics pipeline using **Pandas & NumPy** for HR and project reporting.
-
-- 🧹 Cleaned and transformed multi-source datasets into structured, analysis-ready dataframes
-- 🔗 Integrated datasets to create a **master dataset for HR analytics**
-- 💰 Calculated project bonuses and total costs per manager
-- 📓 Documented workflow in a **Jupyter Notebook** showcasing ETL and EDA processes
+### 📊 [ShopNest Power BI Dashboard](https://github.com/DarshanDataAnalyst/ShopNest-PowerBI-Dashboard)
+Full-stack Power BI capstone built on a 9-table dataset with 9,000+ transactions. Engineered a star schema in Power Query and authored 15+ DAX measures for time intelligence, contribution %, and KPI tracking.
+> **Key insight:** Discount-margin inversion in Q3 simulated a 12% margin recovery opportunity.
 
 ---
 
-### 🛒 [E-Commerce Sales Analysis — SQL](https://github.com/DarshanDataAnalyst)
-> *January 2026*
-
-Analyzed **10,000+ transaction records** using SQL to uncover revenue and product insights.
-
-- 📊 Used joins, aggregations & window functions to evaluate customer purchasing patterns
-- 📅 Generated insights on monthly revenue growth, regional distribution & top sellers
-- 💡 Identified products contributing **over 40% of total revenue**
+### 🧮 [HR Analytics Pipeline — Python](https://github.com/DarshanDataAnalyst/Python-Project)
+Python ETL pipeline using Pandas and NumPy to ingest, clean, and merge 3 raw HR datasets into a master analytics dataframe. Engineered bonus, designation, and per-manager cost metrics for HR leadership reporting.
 
 ---
 
-### 📊 [Retail Sales Dashboard — Excel](https://github.com/DarshanDataAnalyst)
-> *January 2026*
-
-Designed an interactive Excel dashboard with Pivot Tables, Pivot Charts, and slicers.
-
-- 🗓️ Identified seasonal demand patterns and high-performing product segments
-- 🔁 Automated reporting to accelerate business performance reviews
-- 🗺️ Analyzed sales performance across region, product category, and time period
-
----
-### 🍽️ [Zomato Order Analytics](https://github.com/DarshanDataAnalyst)
-> *January 2026*
-
-- 📦 8,998 orders · 5 cities · 8 cuisines · ₹61.9L total order value
-- 🔢 Derived 5 business metrics from raw data using Excel & Python
-- 🚨 Found 80.8% late delivery rate — #1 driver of customer dissatisfaction
-- 💰 Quantified ₹7.09L discount spend with city-cuisine breakdown
-- 📊 Proved 24/7 uniform demand across all 5 time slots (<4% variance)
-- 🏙️ Bangalore identified as highest-value market (₹13.37L revenue)
-
-----
-
-## 💼 Professional Experience
-
-### 🏥 Senior Process Executive Analyst — Omega Healthcare Pvt Ltd, Bangalore
-> *July 2017 – July 2025 | Healthcare Revenue Cycle Management (RCM)*
-
-- Analyzed **AR aging reports and denial trends** to prioritize high-value claims
-- Performed **root cause analysis** on denied and unpaid claims, improving reimbursement recovery
-- Developed **Excel-based operational dashboards** to monitor claim performance and trends
-- Managed claims across **Medicare, Medicaid, and commercial insurance** clients
-- 🏆 **98% claim resolution accuracy** — reduced AR balances and improved revenue recovery
-- 🎖️ **Best Performer Award (2019)** for operational excellence
+### ✈️ [AirlineDB SQL Analysis](https://github.com/DarshanDataAnalyst/AirlineDB-SQL-Analysis-Project)
+SQL analysis on a relational airline operations database covering route revenue ranking, delay pattern analysis, passenger load factors, and booking class yield contribution.
 
 ---
 
-## 🎓 Education & Certifications
+## 🏆 Highlights
 
-| Qualification | Institution | Year |
-|---|---|---|
-| ✅ Certified Data Analyst | Skillovilla, Bangalore | 2025–2026 |
-| 🎓 B.E. – Information Science | Vivekananda Institute of Technology (VKIT) | 2015 |
-| 📡 Master's in Network Administration | Jetking, Bangalore | 2012–2013 |
-
----
-
-## 🏆 Achievements
-
-- 🥇 **Best Performer Award (2019)** — Michigan State Transformation Team
-- ✅ Achieved **98% claim resolution accuracy** in high-volume healthcare AR operations
-- 📊 Built data pipelines and dashboards processing **10,000+ records** across multiple domains
+- **98% claim resolution accuracy** at Omega Healthcare — highest on the team for 3 consecutive years
+- **Best Performer Award (2019)** — Michigan Medical Billing Transformation Team
+- **30% reduction** in manual reporting time through Excel dashboard automation
+- Identified **5 recurring payer-specific denial patterns** that reduced claim repeat rates
 
 ---
 
-<p align="center">
-  <i>"Turning raw data into decisions — one insight at a time."</i>
-</p>
+## 📜 Certifications
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Darshan5949&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
+- **Certified Data Analyst** — Skillovilla (Sep 2025 – Feb 2026) · [View Certificate](https://www.skillovilla.com/certificate/B09FLUQR)
+- Power BI · SQL · Python badges on [Credly](https://www.credly.com/users/darshan-bk)
+
+---
+
+## 📫 Let's Connect
+
+I'm actively looking for analyst roles and open to conversations about data, healthcare analytics, or anything Power BI. Feel free to reach out!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-bkdarshan-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/bkdarshan)
+[![Email](https://img.shields.io/badge/Email-darshan.bk92%40gmail.com-red?style=flat-square&logo=gmail)](mailto:darshan.bk92@gmail.com)

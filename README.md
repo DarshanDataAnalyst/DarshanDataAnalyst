@@ -64,7 +64,7 @@ SQL analysis on a relational airline operations database covering route revenue 
 ## 📜 Certifications
 
 - **Certified Data Analyst** — Skillovilla (Sep 2025 – Feb 2026) · [View Certificate](https://www.skillovilla.com/certificate/B09FLUQR)
-- Power BI · SQL · Python badges on [Credly](https://www.credly.com/users/darshan-bk)
+- Power BI · SQL · Python 
 
 ---
 
